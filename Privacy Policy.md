@@ -1,166 +1,166 @@
-# PRIVACY POLICY
+# GİZLİLİK POLİTİKASI
 
-Effective Date: May 25, 2018
+Yürürlük Tarihi: 25 Mayıs 2018
 
-This Privacy Policy describes
+Bu Gizlilik Politikasını Açıklamaktadır.
 
-* The ways we collect personal data about you and why we collect it
+* Sizinle ilgili kişisel verileri topladığımız yöntemler ve toplama nedenimiz?
 
-* How your personal data is used
+* Kişisel verileriniz nasıl kullanılıyor?
 
-* The choices you have about your personal data.
+* Kişisel verileriniz hakkında sahip olduğunuz seçenekler.
 
-This Privacy Policy applies to Klei Entertainment’s games, websites and related services, which we here collectively call the Service. We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make.  We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws.
+Bu Gizlilik Politikası, Klei Entertainment’ın oyunlarını, web sitelerini ve ilgili hizmetleri burada topluca “Hizmet” olarak adlandırdığımız hizmetler için de geçerlidir. Değişen yasal, teknik veya ticari gelişmelere karşılık olarak bu Gizlilik Bildirimini zaman zaman güncelleyebiliriz. Gizlilik Bildirimimizi güncellediğimizde, yaptığımız değişikliklerin önemi ile tutarlı olarak sizi bilgilendirmek için uygun önlemleri alacağız. Geçerli veri koruma yasalarının gerektirdiği durumlarda, herhangi bir maddi Gizlilik Bildirimi değişikliği için onayınızı alacağız.
 
-If you have any questions or concerns about our use of your personal information, please contact us using the contact details provided at the bottom of this Privacy Notice.
+Kişisel bilgilerinizin kullanımı hakkında herhangi bir sorunuz veya endişeniz varsa, lütfen bu Gizlilik Bildiriminin altındaki iletişim bilgilerini kullanarak bizimle iletişime geçin.
 
-### THE DATA WE COLLECT
+### TOPLADIĞIMIZ VERİLER
 
-#### That you provide
+#### Sağladıklarınız
 
-* Profile information such as profile photos, usernames or social media links
+* Profil fotoğrafları, kullanıcı adları veya sosyal medya bağlantıları gibi profil bilgileri
 
-* New account names or passwords
+* Yeni hesap adları veya şifreler
 
-* Contact information such as your name or email address
+* Adınız veya e-posta adresiniz gibi iletişim bilgileri
 
-* For store purchases, real name, mailing address and/or telephone number 
+* Mağaza satın alımları için, gerçek ad, posta adresi ve/veya telefon numarası 
 
-* Additional data that you provide through our service like forum posts, email messages, uploaded images or website links.
+* Forum gönderileri, e-posta mesajları, yüklenen resimler veya web sitesi bağlantıları gibi hizmetlerimiz aracılığıyla sağladığınız ek veriler.
 
-* Other data that you choose to give us (such as data to identify a lost account)
+* Bize vermeyi seçtiğiniz diğer veriler (kayıp bir hesabı tanımlamak için veriler gibi)
 
-#### That we collect automatically
+#### Otomatik olarak topladıklarımız
 
-* Data about your account and game progress
+* Hesabınızla ilgili veriler ve oyun ilerlemesi
 
-* IP address (General geographic location)
+* IP adresi (Genel coğrafi konum)
 
-* System specifications (Including mobile device identifiers)
+* Sistem özellikleri (Mobil cihaz tanımlayıcıları dahil)
 
-* Browser information
+* Tarayıcı bilgisi
 
-* Gameplay data and your interactions with other players inside the Service
+* Oynanış verileri ve Hizmet içindeki diğer oyuncularla etkileşimleriniz
 
-In most cases, we also create a Klei-specific ID for you when you use the Service. 
+Çoğu durumda, Hizmeti kullandığınızda sizin için Klei'ye özgü bir kimlik de oluştururuz. 
 
-#### Data we collect from our partners
+#### Ortaklarımızdan topladığımız veriler
 
-* Data we receive if you link a third party tool with the Service (such as facebook, Steam or Google)
+* Hizmetle üçüncü taraf bir araç bağladığınızda aldığımız veriler (Facebook, Steam veya Google gibi)
 
-* Social media analytics data
+* Sosyal medya analiz verileri
 
-* Data for the purpose of security such as spam blacklists
+* Spam kara listeleri gibi güvenlik amacıyla veriler
 
-* Data from game platform services such as Steam profile information, game ownership, item inventory
+* Steam profili bilgileri, oyun sahipliği, ürün envanteri gibi oyun platformu servislerinden elde edilen veriler
 
-* Data from platforms that the games run on (such as to verify payment)
+* Oyunların çalıştığı platformlardan gelen veriler (ödemeyi doğrulamak gibi)
 
-### WHY WE COLLECT THIS DATA
+### NEDEN BU VERİLERİ TOPLUYORUZ?
 
-#### We collect this data in order to operate game services
+#### Oyun servislerini çalıştırmak için bu verileri topluyoruz
 
-* Create accounts and allow players to use our service
+* Hesap oluşturmak ve oyuncuların servisimizi kullanmasına izin vermek
 
-* Confirm ownership and account entitlements
+* Sahipliği ve hesap yetkilerini doğrulamak
 
-* Provide requested services
+* İstenen hizmetleri sağlamak
 
-* Inform players of service related information
+* Servis ile ilgili bilgi oyuncularını bilgilendirmek
 
-#### Provide ongoing game support for all players
+#### Tüm oyuncular için devam eden oyun desteği sağlamak
 
-* Provide players methods to interact with each other
+* Oyuncuların birbirleriyle etkileşimde bulunma yöntemleri sağlamak
 
-* Manage our relationship with you
+* Sizinle ilişkimizi yönetmek
 
-* Understand how our players as a whole interact with our services
+* Oyuncularımızın bir bütün olarak hizmetlerimizle nasıl etkileşimde bulunduğunu anlamak.
 
-* Provide tools and methods in which to communicate with our players
+* Oyuncularımızla iletişim kuracak araçlar ve yöntemler sağlamak
 
-* Provide security alerts, product updates and news
+* Güvenlik uyarıları, ürün güncellemeleri ve haberler sağlamak
 
-#### Security and safety
+#### Güvenlik ve emniyet
 
-* Prevent malicious users
+* Kötü niyetli kullanıcıları engellemek
 
-* Moderate player discussions
+* Orta seviye oyuncu tartışmaları
 
-* Foster a safe and friendly environment between users
+* Kullanıcılar arasında güvenli ve arkadaş canlısı bir ortamı teşvik etmek
 
-#### Player behavior and historical data
+#### Oyuncu davranışı ve geçmiş verileri
 
-* Make smart informed choices about our service operations
+* Servis operasyonlarımız hakkında akıllıca bilinçli seçimler yapın
 
-* Respond to player feedback and suggestions
+* Oyuncu geri bildirimlerine ve önerilerine yanıt verme
 
-We collect metrics and telemetry data regarding your use of our Services, including how long and how often you play any game. We use this information to help us troubleshoot problems with the Service, to provide player rewards, and to improve the Service and your gaming experience.
+Hizmetlerimizi ne kadar uzun ve ne sıklıkla oynatacağınız da dahil olmak üzere Hizmetlerimizi kullanımınızla ilgili ölçümleri ve telemetri verilerini topluyoruz. Bu bilgileri Hizmet ile ilgili sorunları gidermemize, oyuncu ödülleri vermemize ve Hizmeti ve oyun deneyiminizi geliştirmemize yardımcı olmak için kullanıyoruz.
 
-### WHO CAN SEE YOUR DATA
+### SİZİN VERİLERİNİZİ GÖRMEK
 
-Apart from Klei, your data can be accessed by others in the following situations:
+Klei dışında, verilerinize aşağıdaki durumlarda başkaları tarafından erişilebilir:
 
-#### Other players and users
+#### Diğer oyuncular ve kullanıcılar
 
-If our game includes social features, other players and users may see limited data. Other players and users may, for example, see your profile data, in-game activities and read messages you have posted.
+Oyunumuz sosyal özellikler içeriyorsa, diğer oyuncular ve kullanıcılar sınırlı verileri görebilir. Diğer oyuncular ve kullanıcılar örneğin profil verilerinizi, oyun içi aktivitelerinizi görebilir ve kaydettiğiniz mesajları okuyabilir.
 
-#### Partners working with Klei
+#### Klei ile çalışan ortaklar
 
-Klei has partners to perform services for us. These partners process your data only at and according to our instructions to provide the Service, such as hosting, player support, analytics and fraud prevention.
+Klei'nin bizim için hizmet yürütmek üzere ortakları var. Bu iş ortakları, verilerinizi yalnızca Barındırma, oyuncu desteği, analiz ve sahteciliği önleme gibi Hizmeti sağlama yönergelerine göre işlerdir.
 
-#### Other companies and public authorities
+#### Diğer şirketler ve kamu yetkilileri
 
-In order to combat fraud and illegal activity, we may exchange data with other companies and organizations and provide it to public authorities in response to lawful requests.
+Dolandırıcılık ve yasadışı faaliyetlerle mücadele etmek için, diğer şirket ve kuruluşlarla veri alışverişi yapabilir ve yasal taleplere yanıt olarak kamu yetkililerine sağlayabiliriz.
 
-We may also disclose your data based on your consent, to comply with the law or to protect the rights, property or safety of us, our players or others.
+Verilerinizi, izninize bağlı olarak, yasalara uymak veya haklarımızı, mülkümüzü veya güvenliğimizi, oyuncularımızı veya başkalarını korumak amacıyla açıklayabiliriz.
 
-#### Anonymized/Aggregated Data  
+#### Anonimleştirilmiş/Toplanmış Veri  
 
-We may share aggregate or de-identified information with third parties for research, marketing, analytics and other purposes, provided such information does not identify a particular individual.
+Belirli bir bireyi tanımlamaması koşuluyla, toplu ya da tanımlanmamış bilgileri araştırma, pazarlama, analitik ve diğer amaçlar için üçüncü taraflarla paylaşabiliriz.
 
-#### International Data Transfers
+#### Uluslararası Veri Aktarımı
 
-Our Service is global by nature and your data can therefore be transferred to anywhere in the world. Because different countries may have different data protection laws than your own country, we take steps to ensure adequate safeguards are in place to protect your data as explained in this Policy. Adequate safeguards that our partners may use include standard contractual clauses approved by EU Commission and the Privacy Shield certification in case of transfers to the USA.
+Hizmetimiz doğası gereği evrenseldir ve verileriniz dünyanın herhangi bir yerine aktarılabilir. Farklı ülkeler kendi ülkenizden farklı veri koruma yasalarına sahip olabileceğinden, verilerinizi bu Politikada açıklandığı şekilde korumak için yeterli önlemlerin alındığından emin olmak için adımlar atıyoruz. Ortaklarımızın kullanabileceği yeterli önlemler arasında AB Komisyonu tarafından onaylanmış standart sözleşme maddeleri ve ABD'ye transfer olması durumunda Gizlilik Kalkanı sertifikası yer almaktadır.
 
-### YOUR RIGHTS AND OPTIONS
+### HAK VE SEÇENEKLERİNİZ
 
-#### Opt-out of marketing emails and other direct marketing
+#### Pazarlama e-postalarının ve diğer doğrudan pazarlamanın devre dışı bırakılması
 
-You may opt-out of receiving promotional communications, such as marketing emails from us by following the instructions in such communications. You can always withdraw your consent, for example by clicking the unsubscribe link on an email or opting out of sending data in-game.
+Bu tür iletişimdeki yönergeleri izleyerek, bizden pazarlama e-postaları gibi promosyon iletişimlerini almayı tercih edebilirsiniz. Örneğin, bir e-postadaki aboneliği iptal et bağlantısını tıklayarak veya oyun içinde veri göndermeyi devre dışı bırakarak, onayınızı her zaman çekebilirsiniz.
 
-#### Access the personal data we hold about you
+#### Hakkınızda tuttuğumuz kişisel verilere erişme
 
-If you request, we will provide you a copy of your personal data in an electronic format.
+Talep ederseniz, kişisel verilerinizin bir kopyasını elektronik biçimde size sağlayacağız.
 
-#### Your other rights
+#### Diğer haklarınız
 
-You also have the right to correct your data, have your data deleted, object how we use or share your data, and restrict how we use or share your data. 
+Ayrıca verilerinizi düzeltme, verilerinizin silinmesini sağlama, verilerinizi nasıl kullandığımızı veya paylaştığımıza ve verilerinizi nasıl kullandığımızı veya paylaştığımızı kısıtlamanıza da sahipsiniz. 
 
-Requests may be submitted to legal@kleientertainment.com - We will respond to all requests, inquiries or concerns within thirty (30) days.
+İstekler [legal@kleientertainment.com](mailto:legal@kleientertainment.com) adresine gönderilebilir - Otuz (30) gün içinde tüm istek, soru ve isteklere cevap vereceğiz.
 
-### COOKIES AND SIMILAR TECHNOLOGY
+### COOKIES VE BENZER TEKNOLOJİLER
 
-Like most online services, we and our partners use cookies and similar technologies to provide and personalize the Service, analyse use, target advertisements and prevent fraud. You can disable cookies in your browser settings, but some parts of the Service may then not function properly.
+Çoğu çevrimiçi hizmet gibi, biz ve ortaklarımız, Hizmeti sağlamak ve kişiselleştirmek, kullanımı analiz etmek, reklamları hedef almak ve sahteciliği önlemek için çerezleri ve benzer teknolojileri kullanıyoruz. Tarayıcı ayarlarınızda çerezleri devre dışı bırakabilirsiniz, ancak Hizmet'in bazı bölümleri düzgün çalışmayabilir.
 
-### HOW DO WE PROTECT YOUR DATA
+### VERİLERİNİZİ NASIL KORUYORUZ
 
-#### Security Safeguards
+#### Güvenlik Önlemleri
 
-In order to help ensure a secure and safe player experience, we are continuously developing and implementing administrative, technical and physical security measures to protect your data from unauthorized access or against loss, misuse or alteration.
+Güvenli ve güvenli bir oyuncu deneyiminin sağlanmasına yardımcı olmak için, verilerinizi yetkisiz erişime veya kayıp, yanlış kullanım veya değişikliklere karşı korumak için sürekli olarak idari, teknik ve fiziksel güvenlik önlemleri geliştiriyor ve uyguluyoruz.
 
-#### Data retention
+#### Veri saklama
 
-We retain your data for as long as your account is active or as needed to provide you the Service. We will for example periodically de-identify unused game accounts and we regularly review and de-identify unnecessary data.
+Verilerinizi hesabınız etkin olduğu sürece veya Hizmeti size sağlamak için gerektiği sürece saklarız. Örneğin, kullanılmayan oyun hesaplarını periyodik olarak belirleyeceğiz ve gereksiz verileri düzenli olarak gözden geçirip belirliyoruz.
 
-Note that if you ask us to remove your personal data, we will retain your data as necessary for our legitimate business interests, such as to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Kişisel verilerinizi kaldırmamızı isterseniz, yasal yükümlülüklerimize uymak, anlaşmazlıkları çözmek ve sözleşmelerimizi uygulamak gibi yasal iş çıkarlarımız için verilerinizi gerektiği gibi tutacağımızı unutmayın.
 
-### AGE LIMITS
+### YAŞ LİMİTLERİ
 
-We do not knowingly collect or solicit personal data about or direct or target interest based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services.  If you are under 13, please do not send any data about yourself to us, including your name, address, telephone number, or email address.  No one under the age of 13 may provide any personal data.  If we learn that we have collected personal data about a child under age 13, we will delete that data as quickly as possible.  If you believe that we might have any data from or about a child under the age of 13, please contact us.
+13 yaşın altındaki herkese bilerek veya doğrudan veya hedefe dayalı reklamcılıkla ilgili kişisel bilgileri toplamaz veya talep etmez veya bu kişilerin Hizmetlerimizi kullanmasına bilerek izin vermeyiz. 13 yaşın altındaysanız, adınız, adresiniz, telefon numaranız veya e-posta adresiniz dahil olmak üzere, kendinizle ilgili hiçbir bilgi göndermeyin. 13 yaşın altındaki hiç kimse kişisel bilgi sunamaz. 13 yaşın altındaki bir çocukla ilgili kişisel veriler topladığımızı öğrenirsek, bu verileri olabildiğince hızlı bir şekilde sileriz. 13 yaşın altındaki bir çocuktan veya çocuğumuzdan herhangi bir veri alabileceğimize inanıyorsanız, lütfen bizimle iletişime geçin.
 
-### CONTACT US
+### BİZİMLE İLETİŞİME GEÇİN
 
-If you have any questions or concerns about our use of your personal information, please contact our data protection officer at [legal@kleientertainment.com](mailto:legal@kleientertainment.com)
+Kişisel bilgilerinizin kullanımı ile ilgili herhangi bir sorunuz veya endişeniz varsa, lütfen [legal@kleientertainment.com](mailto:legal@kleientertainment.com) adresinden veri koruma memurumuza başvurun
 
-For general questions regarding the privacy policy you can contact Klei Support at support@kleientertainment.com
+Gizlilik politikasına ilişkin genel sorular için [support@kleientertainment.com](mailto:support@kleientertainment.com) adresinden Klei Destek ile iletişime geçebilirsiniz.
 
